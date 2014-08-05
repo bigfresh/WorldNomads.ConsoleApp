@@ -1,0 +1,10 @@
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\bin\Debug\WorldNomads.Utility.dll
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\bin\Debug\WorldNomads.Utility.pdb
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\obj\Debug\WorldNomads.Utility.dll
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\obj\Debug\WorldNomads.Utility.pdb
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\obj\Debug\WorldNomads.Utility.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\bin\Debug\WorldNomads.Utility.dll
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\bin\Debug\WorldNomads.Utility.pdb
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\obj\Debug\WorldNomads.Utility.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\obj\Debug\WorldNomads.Utility.dll
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\obj\Debug\WorldNomads.Utility.pdb

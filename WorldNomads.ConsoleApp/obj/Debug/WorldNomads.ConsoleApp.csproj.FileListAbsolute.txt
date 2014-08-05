@@ -1,0 +1,16 @@
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.ConsoleApp.exe.config
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.ConsoleApp.exe
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.ConsoleApp.pdb
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\obj\Debug\WorldNomads.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\obj\Debug\WorldNomads.ConsoleApp.exe
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\obj\Debug\WorldNomads.ConsoleApp.pdb
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.Utility.dll
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.Utility.pdb
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.ConsoleApp.exe.config
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\obj\Debug\WorldNomads.ConsoleApp.exe
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\obj\Debug\WorldNomads.ConsoleApp.pdb
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.ConsoleApp.exe
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.ConsoleApp.pdb
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.Utility.dll
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\bin\Debug\WorldNomads.Utility.pdb
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.ConsoleApp\obj\Debug\WorldNomads.ConsoleApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.UnitTest\bin\Debug\WorldNomads.UnitTest.dll
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.UnitTest\bin\Debug\WorldNomads.UnitTest.pdb
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.UnitTest\obj\Debug\WorldNomads.UnitTest.csprojResolveAssemblyReference.cache
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.UnitTest\obj\Debug\WorldNomads.UnitTest.dll
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.UnitTest\obj\Debug\WorldNomads.UnitTest.pdb
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.UnitTest\bin\Debug\WorldNomads.Utility.dll
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.UnitTest\bin\Debug\WorldNomads.Utility.pdb
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.UnitTest\bin\Debug\WorldNomads.UnitTest.dll
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.UnitTest\bin\Debug\WorldNomads.UnitTest.pdb
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.UnitTest\bin\Debug\WorldNomads.Utility.dll
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.UnitTest\bin\Debug\WorldNomads.Utility.pdb
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.UnitTest\obj\Debug\WorldNomads.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.UnitTest\obj\Debug\WorldNomads.UnitTest.dll
+C:\Users\Robert\Desktop\WorldNomads.ConsoleApp\WorldNomads.UnitTest\obj\Debug\WorldNomads.UnitTest.pdb

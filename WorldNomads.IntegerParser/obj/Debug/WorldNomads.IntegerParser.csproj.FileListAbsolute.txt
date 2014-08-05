@@ -1,0 +1,5 @@
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\obj\Debug\WorldNomads.IntegerParser.csprojResolveAssemblyReference.cache
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\bin\Debug\WorldNomads.IntegerParser.dll
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\bin\Debug\WorldNomads.IntegerParser.pdb
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\obj\Debug\WorldNomads.IntegerParser.dll
+C:\Dev\WorldNomads.ConsoleApp\WorldNomads.IntegerParser\obj\Debug\WorldNomads.IntegerParser.pdb
